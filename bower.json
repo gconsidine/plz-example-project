@@ -1,0 +1,22 @@
+{
+  "name": "plz-example-project",
+  "version": "0.0.1",
+  "authors": [
+    "Greg Considine <greg@greg-considine.com>"
+  ],
+  "description": "An example project using plz-cms + Express on the server and instrument-panel (AngularJS + Bootstrap) on the client",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "CMS",
+    "Dashboard"
+  ],
+  "dependencies": {
+    "isntrument-panel": "gconsidine/instrument-panel"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/gconsidine/plz-example-project",
+  "private": true
+}
